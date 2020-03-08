@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Popular Movies</string>
+
+    <string-array name="sort_options">
+        <item>Most Popular</item>
+        <item>Top Rated</item>
+    </string-array>
+    
+    <string name="image_describe_content">ImageView</string>
+    <string name="title_placeholder">Title Placeholder</string>
+    <string name="rating_placeholder">x.x / 10</string>
+    <string name="rd_placeholder">XX/XX/XXXX</string>
+    <string name="rating_label">Rating: </string>
+    <string name="rd_label">Released: </string>
+    <string name="overview_placeholder">Overview</string>
+
+</resources>
