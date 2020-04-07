@@ -10,7 +10,7 @@ import java.util.Scanner;
 
 public class JsonUtils {
     private final static String MOVIEDB_BASE_URL = "https://api.themoviedb.org/3/movie";
-    private final static String API_KEY = "a1f33306211f902d0a0ea3fea5b0ecdc";
+    private final static String API_KEY = "<The MovieDB API Key>";
 
     public static URL buildUrl(String[] query) throws MalformedURLException {
         Uri builtUri = Uri.parse(MOVIEDB_BASE_URL).buildUpon()
